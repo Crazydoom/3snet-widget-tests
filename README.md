@@ -71,12 +71,13 @@ https://dev.3snet.info/eventswidget/
 ```bash
 npm install
 npx playwright install --with-deps
-
+```
 
 Запуск тестов:
+```bash
 npm test
-
+```
 Открытие HTML-отчёта:
+```bash
 npm run test:report
-
 ```
